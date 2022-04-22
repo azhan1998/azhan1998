@@ -4,7 +4,7 @@
 
 
 ## This is me
-* 擅长 mobileSec 以及相关技术栈，喜欢 python 编程。
+* 擅长 mobileSec 以及相关技术栈，擅长 python 编程、 Android 逆向。
 
-* 喜欢传扬雷锋精神~
+* 
 
