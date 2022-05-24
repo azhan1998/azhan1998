@@ -4,7 +4,7 @@
 
 
 ## This is me
-* 擅长 mobileSec 以及相关技术栈，擅长 python 编程、 Android 逆向。
+* 擅长 mobileSec 以及相关技术栈，擅长 python 编程、 移动安全。
 
 * 
 
